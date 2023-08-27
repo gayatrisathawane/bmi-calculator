@@ -4,11 +4,11 @@
 
 BMI (body mass index) is a measure of whether you're a healthy weight for your height. Use this BMI calculator to check BMI.
 
-![output](./images/projectbmi.png);
+![output](./images/projectbmi.png)
 
 ## Result 
 
-![output](./images/result1.png);
+![result](./images/result1.png)
 
 ## Description 
 
